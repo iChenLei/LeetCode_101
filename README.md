@@ -1,5 +1,5 @@
 ### LeetCode training for offer
-<p><img src="https://img.shields.io/badge/coverage-5%2F64-red.svg" />
+<p><img src="https://img.shields.io/badge/coverage-8%2F64-red.svg" />
 <img src="https://img.shields.io/badge/language-Javascript%7CC%2B%2B-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/coder-%40chenlei-ff69b4.svg"/></p>
 <img src="https://discuss.leetcode.com/assets/uploads/system/site-logo.png?v=7rrda06liou" width="600" height="auto"/>
